@@ -1,21 +1,7 @@
 version: 0.2
 
 phases:
-  install:
-    runtime-versions:
-      python: 3.9
-    commands:
-      - echo Installing...
-
   build:
     commands:
-      - echo Running app...
-      - python app.py
-
-  post_build:
-    commands:
-      - echo Build completed!
-
-artifacts:
-  files:
-    - '**/*'
+      - echo "Deploying to EC2..."
+      - ssh ec2-user@44.222.204.170 "cd aws-ci-cd-project && git pull origin main && python3 app.py"
