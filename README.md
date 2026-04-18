@@ -20,7 +20,6 @@ This project demonstrates a CI/CD pipeline where code pushed to GitHub is automa
 ---
 
 ## 🔄 Workflow
-GitHub → EC2 → Auto Deploy → Live App
 <img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/2359efd4-77a1-4ced-aa69-51887c7761c1" />
 
 
@@ -32,7 +31,6 @@ http://44.222.204.170:5000
 ---
 
 ## 📸 Output
-![App Screenshot](screenshot.png)
 <img width="1912" height="688" alt="output" src="https://github.com/user-attachments/assets/efbae4c8-4b15-44d8-b077-097d134ecbe1" />
 
 
