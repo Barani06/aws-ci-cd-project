@@ -32,6 +32,8 @@ http://44.222.204.170:5000
 
 ## 📸 Output
 <img width="1912" height="688" alt="output" src="https://github.com/user-attachments/assets/efbae4c8-4b15-44d8-b077-097d134ecbe1" />
+https://github.com/user-attachments/assets/a1d9fb38-f754-4225-a009-48f91314b2bc
+
 
 
 ---
