@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Author
 Barani S
-Linkedin Profile: https://www.linkedin.com/in/barani-s-aa38a4257/
+\nLinkedin Profile: https://www.linkedin.com/in/barani-s-aa38a4257/
 
 ---
 
