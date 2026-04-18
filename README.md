@@ -1,4 +1,4 @@
-#CI/CD Pipeline Deployment using AWS EC2
+# 🚀 CI/CD Pipeline Deployment using AWS EC2
 
 ## 👨‍💻 Author
 Barani S
